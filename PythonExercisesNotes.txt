@@ -1,0 +1,13 @@
+-"git init" file created after git init command on git bash
+tracks all the changes you make on git bash.
+- if you want to add a file to the local repository you use the command
+* git add file_name
+-If you want to add all the files in a folder at the same time you use the 
+command
+*git add .
+
+-Token code -> git_token - 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
+
+-cd command is used to add a directory
+-cd.. is used to remove one directory
+-cd .... is used to remove two directories
