@@ -1,13 +1,29 @@
 -"git init" file created after git init command on git bash
 tracks all the changes you make on git bash.
-- if you want to add a file to the local repository you use the command
+- if you want to add a single file to the local repository you use the command:
 * git add file_name
 -If you want to add all the files in a folder at the same time you use the 
 command
 *git add .
 
--Token code -> git_token - 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
+-Git token code -> - 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
 
--cd command is used to add a directory
--cd.. is used to remove one directory
--cd .... is used to remove two directories
+-cd command is used to add a directory for gitbush
+-cd.. is used to remove one directory for gitbush
+
+-git init is a command on gitbash used to initialize an empty Git repository
+
+18/10/2022
+Uses of Python
+1. Back end wed development
+2. Data analysis
+3. AI and Scientific computing
+4. Games desktop apps
+5. GUIs
+How to run Python Programs
+1. Python Command Line - i.e 
+2. Microsoft Command Prompt
+3. Python IDE ie Python IDLE
+
+Variable - Name assigned to a value
+Variable is also the name given to the memory location
