@@ -1,0 +1,119 @@
+-"git init" file created after git init command on git bash
+tracks all the changes you make on git bash.
+- if you want to add a single file to the local repository you use the command:
+* git add file_name
+-If you want to add all the files in a folder at the same time you use the 
+command
+*git add .
+
+-Git token code -> - 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
+
+-cd command is used to add a directory for gitbush
+-cd.. is used to remove one directory for gitbush
+
+-git init is a command on gitbash used to initialize an empty Git repository
+
+-How to check commits already done:
+git log --oneline
+
+18/10/2022
+Uses of Python
+1. Back end wed development
+2. Data analysis
+3. AI and Scientific computing
+4. Games desktop apps
+5. GUIs
+How to run Python Programs
+1. Python Command Line - i.e 
+2. Microsoft Command Prompt
+3. Python IDE ie Python IDLE
+
+Variable - Name assigned to a value
+Variable is also the name given to the memory location
+
+19/10/2022
+Literals - Values that stands for itself ie Numeric literals and String literals
+
+Format 
+sytanx = format(value, specifier)
+Example format(8/9, ".3f")
+format("hello", ">30")
+format("hello", "<30")
+
+Identifiers - This is the name we give to identify a variable, function, class,
+module or other objects. ie Whenever we want to give an entity a name, that's 
+called identifier.
+Keywords - Words with already predefined meaning. You cannot use keywords as
+Identifiers. It will result to an error.
+
+-Python command to check keywords available:
+help('keywords')
+
+- Python control characters (non-printing characters) - is a character that doesn't
+represent a written symbol. example '\n' or '\t'.
+-The inverse of control characters are printable characters
+
+-Python implicit joining methods vs Explicity joining methods
+implicit - print("hello"
+              "world")
+explicit - print("hello\
+           world")
+
+Operators - Symbols used for computation eg +, -, *, /
+
+Operators
+Based on operands
+-Unary operator
+-Binary Operator
+
+Based on operator
+-Arithmetic Operator
+-Relational Operator
+-Membership Operator
+-Boolean Operator
+
+Arithmetic Operators 
+1. Negation eg -5
+2. Addition 5+6
+3. Subtraction 8-5
+4. Multiplication 9 * 3
+5. Division 7/3
+6. Truncating div 7//3 - This one eliminates division coming after
+7. Modulus 6%4
+8. Exponential 2 ** 3
+
+Relational Operators
+1. Equal ==
+2. Not equal !=
+3. Less than <
+4. Greater than >
+5. Less than or equal to <=
+6. Greater than or equal to >=
+
+Membership Operators
+- Used to check whether the given element is member of given group or not
+ ie in and not in
+example 
+5 in (5, 3,2, 3)
+True
+5 in (8, 3, 2, 9)
+False
+5 not in (34, 23, 55, 2)
+True
+5 not in (22, 53, 22, 5, 2)
+False
+
+Boolean Operators
+They are :
+AND, OR, NOT 
+
+and - True only if all of the conditions are true otherwise false
+or - True if any of the condition is True and False if all the conditions r false
+not - not (10>5) = False
+
+Lazy evaluation or short circuit evaluation ( 'and' sometimes 'or' operands).
+It happens when only the first conditions satisfies 
+
+Precedence and Associativity Rules
+Check on the video below
+https://www.youtube.com/watch?v=Em5bBQHrTGw&list=PLzgPDYo_3xul-DflHSi-4IWj2qYyPSZUH&index=10
