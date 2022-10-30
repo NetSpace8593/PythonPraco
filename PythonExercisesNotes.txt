@@ -117,3 +117,5 @@ It happens when only the first conditions satisfies
 Precedence and Associativity Rules
 Check on the video below
 https://www.youtube.com/watch?v=Em5bBQHrTGw&list=PLzgPDYo_3xul-DflHSi-4IWj2qYyPSZUH&index=10
+
+30/10/2022
